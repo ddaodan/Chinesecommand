@@ -2,3 +2,6 @@ name: ChineseCommand
 version: '${version}'
 main: net.chinesecommand.ChineseCommand
 api-version: '1.16'
+commands:
+  cncmd:
+    usage: 请使用/<command> reload
