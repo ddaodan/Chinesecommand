@@ -1,0 +1,4 @@
+name: ChineseCommand
+version: '${version}'
+main: net.chinesecommand.ChineseCommand
+api-version: '1.16'
